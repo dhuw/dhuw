@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dylan
 - 👀 I’m interested in cars and anything that goes fast
 - 🌱 I’m currently learning Full-Stack Web Devolepment
-- 💞️ I’m currently working on ASCTMS
+- 💞️ I’m currently working on Harvard's CS50 course
 - 📫 How to reach me by e-mail: hazlewood.dyl@gmail.com
 
 <!---
